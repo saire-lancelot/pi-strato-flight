@@ -4,6 +4,7 @@
 # IDPA (at) WKS
 # Contributor: Alex Streit, Lars Wolf
 # Licence: MIT License
+# Date: March 2019
 
 # Module importieren
 from sense_hat import SenseHat
