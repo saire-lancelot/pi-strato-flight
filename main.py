@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+# PI STRATO FLIGHT
+# IDPA (at) WKS
+# Contributor: Alex Streit, Lars Wolf
+# Licence: MIT License
+
 # Module importieren
 from sense_hat import SenseHat
 import time    
